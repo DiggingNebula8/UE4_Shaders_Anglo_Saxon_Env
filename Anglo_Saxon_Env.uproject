@@ -1,14 +1,9 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.26",
+	"EngineAssociation": "{F9EBE660-40BC-A4E2-AACD-CC8AFA90EF06}",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
-		{
-			"Name": "NodeGraphAssistant",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/d9baaaeadeaf41dcb52b3f6e134e9514"
-		},
 		{
 			"Name": "SunPosition",
 			"Enabled": true
@@ -42,11 +37,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "BlockoutToolsPlugin",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/d337b97aca8947a893526964e179acfd"
-		},
-		{
 			"Name": "MovieRenderPipeline",
 			"Enabled": true
 		},
@@ -58,10 +48,6 @@
 			"Name": "DLSS",
 			"Enabled": true,
 			"MarketplaceURL": "https://www.unrealengine.com/marketplace/en-US/product/nvidia-dlss"
-		},
-		{
-			"Name": "OctanePlugin",
-			"Enabled": true
 		}
 	]
 }
